@@ -10,3 +10,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+public class MyFirstJavaProgram {
+
+   /* This is my first java program.  
+    * This will print 'Hello World' as the output
+    */
+	
+    public static void main(String []args) {
+       System.out.println("Hello World"); // prints Hello World
+    }}
